@@ -1,0 +1,5 @@
+﻿  Skill.cpp
+jpeglib.lib(Rgb.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+  正在生成代码
+  已完成代码的生成
+  Project1.vcxproj -> D:\vs2013\myproject\game\Project512\Release\Project1.exe

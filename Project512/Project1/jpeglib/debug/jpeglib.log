@@ -1,0 +1,52 @@
+﻿生成启动时间为 2014/5/3 15:43:59。
+     1>项目“D:\vs2013\我的工程\C++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\jpeglib.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt BMP.c compress.c Decode.c Huffman.c Idct.c Idct2d.c Jpeg.c pack.c Quanty.c Rgb.c Segment.c
+         Segment.c
+         Rgb.c
+         Quanty.c
+         pack.c
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(19): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strlwr. See online help for details.
+                 d:\vs2013\vc\include\string.h(254) : 参见“strlwr”的声明
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(44): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\vs2013\我的工程\c++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\pack.c(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+         Jpeg.c
+         Idct2d.c
+         Idct.c
+         Huffman.c
+         Decode.c
+         compress.c
+         BMP.c
+         正在生成代码...
+       Lib:
+         D:\vs2013\VC\bin\Lib.exe /OUT:"Debug\jpeglib.lib" /NOLOGO Debug\BMP.obj
+         Debug\compress.obj
+         Debug\Decode.obj
+         Debug\Huffman.obj
+         Debug\Idct.obj
+         Debug\Idct2d.obj
+         Debug\Jpeg.obj
+         Debug\pack.obj
+         Debug\Quanty.obj
+         Debug\Rgb.obj
+         Debug\Segment.obj
+         jpeglib.vcxproj -> D:\vs2013\我的工程\C++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\Debug\jpeglib.lib
+     1>已完成生成项目“D:\vs2013\我的工程\C++代码\地图提取器\大话西游2与梦幻西游的地图提取器(包含遮挡图)\大话西游2与梦幻西游的地图提取器(包含遮挡图)\jpeglib\jpeglib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.62
